@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
 
 ```pip install -r requirements.txt```
 
-Set up your environment variables by creating a .env file in the project directory and adding your Google API key:
+4. Set up your environment variables by creating a .env file in the project directory and adding your Google API key:
 
 ```GOOGLE_API_KEY=your_api_key_here```
 ###### *you can visit:* https://makersuite.google.com/app/apikey
