@@ -23,11 +23,12 @@ To run this application locally, follow these steps:
 4. Set up your environment variables by creating a .env file in the project directory and adding your Google API key:
 
 ```GOOGLE_API_KEY=your_api_key_here```
-##### *to get your API you can visit:* https://makersuite.google.com/app/apikey
+##### *to get your API key you can visit:* https://makersuite.google.com/app/apikey
 ### Usage
 1. Run the application by executing the following command in your terminal:
 
 ```streamlit run app.py```
+
 2. Access the application through your web browser.
 3. Upload your documents using the file uploader.
 4. Click the "Submit & Process" button to start processing the uploaded documents.
