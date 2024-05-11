@@ -23,7 +23,7 @@ To run this application locally, follow these steps:
 4. Set up your environment variables by creating a .env file in the project directory and adding your Google API key:
 
 ```GOOGLE_API_KEY=your_api_key_here```
-###### *you can visit:* https://makersuite.google.com/app/apikey
+##### *to get your API you can visit:* https://makersuite.google.com/app/apikey
 ### Usage
 1. Run the application by executing the following command in your terminal:
 
